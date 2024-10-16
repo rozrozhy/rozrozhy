@@ -1,6 +1,5 @@
 - hello!
-- straw.page:: emf.straw.page
-- he/him
+- pt lurker.. i will also upload small projects later on
 - need to add our host on discord? ask me, and ill provide its user
 
 <!---
